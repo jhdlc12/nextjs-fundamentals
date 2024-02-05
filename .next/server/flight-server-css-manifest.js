@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/cto/Desktop/Harold/training/nextjs-fundamentals/app/page":[],"/Users/cto/Desktop/Harold/training/nextjs-fundamentals/app/home/page":[],"/Users/cto/Desktop/Harold/training/nextjs-fundamentals/app/settings/page":[],"/Users/cto/Desktop/Harold/training/nextjs-fundamentals/app/conference/page":[]}}
