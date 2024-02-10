@@ -1,0 +1,66 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[12].use[3]!./app/global.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************/
+header {
+   background-color: black;
+   margin: 0;
+   display: flex;
+  justify-content: space-around;
+   padding:5px; 
+
+  
+  }
+  
+body {
+    margin: 0;
+ 
+  }
+
+h1{
+
+  margin:0
+
+  }
+
+  .bgWrap {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    z-index: -1;
+    }
+    .bgHeader {
+      margin: 0;
+      padding-top: 25px;
+      font-size: 56px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 45px;
+      text-align: center;
+    }
+    
+    .bgText {
+      margin: 0;
+      font-size: 30px;
+      padding-top: 25px;
+      color: #fff;
+      text-align: center;
+      font-style: italic;
+    }
+    
+    .bgLinks {
+      text-decoration: none;
+      color: #fff;
+      text-align: center;
+      font-size: 30px;
+      padding-top: 25px;
+      margin: auto;
+      display: block;
+    }
+    .bgLinks:hover{
+      text-decoration: underline;
+      text-underline-offset: 5px;
+    }
+    
+  
+

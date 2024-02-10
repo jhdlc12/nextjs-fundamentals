@@ -1,0 +1,75 @@
+.homeLink {
+ margin:0;
+ color:#fff;
+ text-decoration: none;
+
+  }
+.menuBarLinks {
+    margin:0;
+    color: #fff;
+    text-decoration: none;
+    
+  }
+.menuBarLinks:hover{
+  text-decoration: underline;
+  text-underline-offset: 5px;
+} 
+
+
+.tabs,.logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:10px
+}
+
+.baseBg{
+  position: fixed;
+  z-index: -1;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+.bgWrap {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  z-index: -1;
+  }
+  .bgHeader {
+    margin: 0;
+    padding-top: 25px;
+    font-size: 56px;
+    font-weight: 800;
+    color: #fff;
+    line-height: 45px;
+    text-align: center;
+  }
+  
+  .bgText {
+    margin: 0;
+    font-size: 30px;
+    padding-top: 25px;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .bgLinks {
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25px;
+    margin: auto;
+    display: block;
+  }
+  .bgLinks:hover{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+  }
+  
+
+
+

@@ -1,0 +1,8 @@
+{
+  "pages": {},
+  "app": {
+    "/Users/cto/Desktop/Harold/training/nextjs-fundamentals/node_modules/@next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"400\"]}],\"variableName\":\"inter\"}": [
+      "static/media/c811b3fc1b41c454.p.woff2"
+    ]
+  }
+}
